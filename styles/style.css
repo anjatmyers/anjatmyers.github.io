@@ -1,0 +1,120 @@
+
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+
+}
+
+.project {
+    background-color: white;
+}
+
+body{
+    width: 1300px;
+    text-align: center;
+    margin: 0 auto;
+    padding: 0 20px 20px 20px;
+   
+}
+
+#header {
+    width: 1300px;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+h1 {
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0; 
+    text-emphasis: bold;
+    font-weight: bolder;   
+    text-shadow: 2px 3px 3px lavender;
+}
+
+p {
+    font-size: 20px;
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+#floataboutme {
+    width: 400px;
+    float: right;
+    margin: 0 20% 10% 0;
+}
+
+
+img {
+    width: 400px;
+    align: left;
+}
+
+#aboutmepic {
+    width: 400px;
+    float: left;
+    margin: 10px 5px 50px 100px;
+}
+
+#projectheader {
+    width: 600px;
+}
+
+#logo {
+    width: 50px;
+    vertical-align: middle;
+}
+
+
+#navbar {
+    width: 100%;
+    list-style-type: none;
+    display: block;
+    padding: .25em;
+}
+
+ul li a {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 900;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: .75em;
+
+}
+ul li {
+    text-align: center;
+    display: inline;
+    width: 25%;
+    float: center;
+    margin-right: 5em;
+}
+
+.contact {
+    font-size: 16px;
+    text-align: center;
+    display: block;
+}
+
+footer {
+    bottom: 0;
+    height: 60px;
+    border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color: black;
+    padding-top: 20px;
+    margin-top: 50px;
+    clear: both;
+ }
+ blockquote {
+     font-size: 30px;
+     font-weight: 900;
+     width: 500px;
+     margin-left: 400px;
+  }
+ 
+  
